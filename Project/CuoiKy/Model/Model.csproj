@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ML" Version="1.7.1" />
+    <PackageReference Include="Microsoft.ML.Recommender" Version="0.19.1" />
+  </ItemGroup>
+  <ItemGroup Label="MLRecommendation">
+    <None Include="MLRecommendation.consumption.cs">
+      <DependentUpon>MLRecommendation.mbconfig</DependentUpon>
+    </None>
+    <None Include="MLRecommendation.training.cs">
+      <DependentUpon>MLRecommendation.mbconfig</DependentUpon>
+    </None>
+    <None Include="MLRecommendation.zip">
+      <DependentUpon>MLRecommendation.mbconfig</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup Label="MLSentiment">
+    <None Include="MLSentiment.consumption.cs">
+      <DependentUpon>MLSentiment.mbconfig</DependentUpon>
+    </None>
+    <None Include="MLSentiment.training.cs">
+      <DependentUpon>MLSentiment.mbconfig</DependentUpon>
+    </None>
+    <None Include="MLSentiment.zip">
+      <DependentUpon>MLSentiment.mbconfig</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+</Project>

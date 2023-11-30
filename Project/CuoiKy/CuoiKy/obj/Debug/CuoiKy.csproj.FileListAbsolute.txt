@@ -1,0 +1,340 @@
+D:\Zoom\CuoiKy\CuoiKy\bin\Debug\CuoiKy.exe.config
+D:\Zoom\CuoiKy\CuoiKy\bin\Debug\CuoiKy.exe
+D:\Zoom\CuoiKy\CuoiKy\bin\Debug\CuoiKy.pdb
+D:\Zoom\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.AssemblyReference.cache
+D:\Zoom\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.SuggestedBindingRedirects.cache
+D:\Zoom\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmManageDestinaiton.resources
+D:\Zoom\CuoiKy\CuoiKy\obj\Debug\CuoiKy.Properties.Resources.resources
+D:\Zoom\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.GenerateResource.cache
+D:\Zoom\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.CoreCompileInputs.cache
+D:\Zoom\CuoiKy\CuoiKy\obj\Debug\CuoiKy.exe
+D:\Zoom\CuoiKy\CuoiKy\obj\Debug\CuoiKy.pdb
+D:\Zoom\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmAddDestination.resources
+D:\Zoom\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmManagePartner.resources
+D:\Zoom\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmStatistic.resources
+D:\Zoom\CuoiKy\CuoiKy\obj\Debug\CuoiKy.Form1.resources
+D:\Zoom\CuoiKy\CuoiKy\obj\Debug\CuoiKy.ShowPlace.resources
+D:\Zoom\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmCustomer.resources
+D:\Zoom\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmBooking.resources
+D:\Zoom\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmLogin.resources
+D:\Zoom\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmRating.resources
+D:\Zoom\CuoiKy\CuoiKy\obj\Debug\CuoiKy.FrmWelcome.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\CuoiKy\bin\Debug\CuoiKy.exe.config
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\CuoiKy\bin\Debug\CuoiKy.exe
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\CuoiKy\bin\Debug\CuoiKy.pdb
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.AssemblyReference.cache
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.SuggestedBindingRedirects.cache
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.Form1.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmAddDestination.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmBooking.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmCustomer.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmLogin.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmManageDestinaiton.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmManagePartner.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmRating.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmStatistic.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.FrmWelcome.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.Properties.Resources.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.ShowPlace.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.GenerateResource.cache
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.CoreCompileInputs.cache
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.exe
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.pdb
+D:\Zoom\CuoiKy\CuoiKy2\CuoiKy\CuoiKy\bin\Debug\CuoiKy.exe.config
+D:\Zoom\CuoiKy\CuoiKy2\CuoiKy\CuoiKy\bin\Debug\CuoiKy.exe
+D:\Zoom\CuoiKy\CuoiKy2\CuoiKy\CuoiKy\bin\Debug\CuoiKy.pdb
+D:\Zoom\CuoiKy\CuoiKy2\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.AssemblyReference.cache
+D:\Zoom\CuoiKy\CuoiKy2\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.SuggestedBindingRedirects.cache
+D:\Zoom\CuoiKy\CuoiKy2\CuoiKy\CuoiKy\obj\Debug\CuoiKy.Form1.resources
+D:\Zoom\CuoiKy\CuoiKy2\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmAddDestination.resources
+D:\Zoom\CuoiKy\CuoiKy2\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmBooking.resources
+D:\Zoom\CuoiKy\CuoiKy2\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmCustomer.resources
+D:\Zoom\CuoiKy\CuoiKy2\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmLogin.resources
+D:\Zoom\CuoiKy\CuoiKy2\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmManageDestinaiton.resources
+D:\Zoom\CuoiKy\CuoiKy2\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmManagePartner.resources
+D:\Zoom\CuoiKy\CuoiKy2\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmRating.resources
+D:\Zoom\CuoiKy\CuoiKy2\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmStatistic.resources
+D:\Zoom\CuoiKy\CuoiKy2\CuoiKy\CuoiKy\obj\Debug\CuoiKy.FrmWelcome.resources
+D:\Zoom\CuoiKy\CuoiKy2\CuoiKy\CuoiKy\obj\Debug\CuoiKy.Properties.Resources.resources
+D:\Zoom\CuoiKy\CuoiKy2\CuoiKy\CuoiKy\obj\Debug\CuoiKy.ShowPlace.resources
+D:\Zoom\CuoiKy\CuoiKy2\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.GenerateResource.cache
+D:\Zoom\CuoiKy\CuoiKy2\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.CoreCompileInputs.cache
+D:\Zoom\CuoiKy\CuoiKy2\CuoiKy\CuoiKy\obj\Debug\CuoiKy.exe
+D:\Zoom\CuoiKy\CuoiKy2\CuoiKy\CuoiKy\obj\Debug\CuoiKy.pdb
+D:\Zoom\CuoiKy\CuoiKy2 - Copy\CuoiKy\CuoiKy\bin\Debug\CuoiKy.exe.config
+D:\Zoom\CuoiKy\CuoiKy2 - Copy\CuoiKy\CuoiKy\bin\Debug\CuoiKy.exe
+D:\Zoom\CuoiKy\CuoiKy2 - Copy\CuoiKy\CuoiKy\bin\Debug\CuoiKy.pdb
+D:\Zoom\CuoiKy\CuoiKy2 - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.AssemblyReference.cache
+D:\Zoom\CuoiKy\CuoiKy2 - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.SuggestedBindingRedirects.cache
+D:\Zoom\CuoiKy\CuoiKy2 - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.Form1.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmAddDestination.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmBooking.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmCustomer.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmLogin.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmManageDestinaiton.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmManagePartner.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmRating.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmStatistic.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.FrmWelcome.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.Properties.Resources.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.ShowPlace.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.GenerateResource.cache
+D:\Zoom\CuoiKy\CuoiKy2 - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.CoreCompileInputs.cache
+D:\Zoom\CuoiKy\CuoiKy2 - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.exe
+D:\Zoom\CuoiKy\CuoiKy2 - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.pdb
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\CuoiKy.exe.config
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\CuoiKy.exe
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\CuoiKy.pdb
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.AssemblyReference.cache
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.SuggestedBindingRedirects.cache
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.Form1.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmAddDestination.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmBooking.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmCustomer.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmLogin.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmManageDestinaiton.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmManagePartner.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmRating.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmStatistic.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.FrmWelcome.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.Properties.Resources.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.ShowPlace.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.GenerateResource.cache
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.CoreCompileInputs.cache
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.exe
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.pdb
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\LdaNative.dll
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\CpuMathNative.dll
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Core.dll
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Data.dll
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.DataView.dll
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.dll
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.PCA.dll
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Transforms.dll
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Newtonsoft.Json.dll
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Buffers.dll
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.CodeDom.dll
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Collections.Immutable.dll
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Memory.dll
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Numerics.Vectors.dll
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Threading.Channels.dll
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.xml
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Core.xml
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Data.xml
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.DataView.xml
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.PCA.xml
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Transforms.xml
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Newtonsoft.Json.xml
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Buffers.xml
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Collections.Immutable.xml
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Memory.xml
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Numerics.Vectors.xml
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Threading.Channels.xml
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmSentimentAnalysis.resources
+D:\Zoom\CuoiKy\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.CopyComplete
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\LdaNative.dll
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\CpuMathNative.dll
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\MLSentiment.zip
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\CuoiKy.exe.config
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\CuoiKy.exe
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\CuoiKy.pdb
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Core.dll
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Data.dll
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.DataView.dll
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.dll
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.PCA.dll
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Transforms.dll
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Newtonsoft.Json.dll
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Buffers.dll
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.CodeDom.dll
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Collections.Immutable.dll
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Memory.dll
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Numerics.Vectors.dll
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Threading.Channels.dll
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.xml
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Core.xml
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Data.xml
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.DataView.xml
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.PCA.xml
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Transforms.xml
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Newtonsoft.Json.xml
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Buffers.xml
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Collections.Immutable.xml
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Memory.xml
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Numerics.Vectors.xml
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Threading.Channels.xml
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.AssemblyReference.cache
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.SuggestedBindingRedirects.cache
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.Form1.resources
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmAddDestination.resources
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmBooking.resources
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmCustomer.resources
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmLogin.resources
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmManageDestinaiton.resources
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmManagePartner.resources
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmRating.resources
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmSentimentAnalysis.resources
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmStatistic.resources
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.FrmWelcome.resources
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.Properties.Resources.resources
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.ShowPlace.resources
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.GenerateResource.cache
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.CoreCompileInputs.cache
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.CopyComplete
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.exe
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.pdb
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\MatrixFactorizationNative.dll
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Recommender.dll
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Recommender.xml
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmCustomerRecommed.resources
+D:\Zoom\CuoiKy2 - Copy - Copy\CuoiKy\CuoiKy\bin\Debug\MLModelRecommendation.zip
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.AssemblyReference.cache
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.SuggestedBindingRedirects.cache
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\obj\Debug\CuoiKy.Form1.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmAddDestination.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmBooking.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmCustomer.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmCustomerRecommed.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmLogin.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmManageDestinaiton.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmManagePartner.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmRating.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmStatistic.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\obj\Debug\CuoiKy.FrmWelcome.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\obj\Debug\CuoiKy.Properties.Resources.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\obj\Debug\CuoiKy.ShowPlace.resources
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.GenerateResource.cache
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.CoreCompileInputs.cache
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\MatrixFactorizationNative.dll
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\LdaNative.dll
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\CpuMathNative.dll
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\MLModelRecommendation.zip
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\CuoiKy.exe.config
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\CuoiKy.exe
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\CuoiKy.pdb
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Core.dll
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Data.dll
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.DataView.dll
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.dll
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.PCA.dll
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Recommender.dll
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Transforms.dll
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\Newtonsoft.Json.dll
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\System.Buffers.dll
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\System.CodeDom.dll
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\System.Collections.Immutable.dll
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\System.Memory.dll
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\System.Numerics.Vectors.dll
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\System.Threading.Channels.dll
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.xml
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Core.xml
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Data.xml
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.DataView.xml
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.PCA.xml
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Recommender.xml
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Transforms.xml
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\Newtonsoft.Json.xml
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\System.Buffers.xml
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\System.Collections.Immutable.xml
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\System.Memory.xml
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\System.Numerics.Vectors.xml
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\System.Threading.Channels.xml
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.CopyComplete
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\obj\Debug\CuoiKy.exe
+D:\UEL\HKH2023\DATA MINING\FINAL\CuoiKy\CuoiKy\obj\Debug\CuoiKy.pdb
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\MatrixFactorizationNative.dll
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\LdaNative.dll
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\CpuMathNative.dll
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\MLModelRecommendation.zip
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\CuoiKy.exe.config
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\CuoiKy.exe
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\CuoiKy.pdb
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Core.dll
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Data.dll
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.DataView.dll
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.dll
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.PCA.dll
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Recommender.dll
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Transforms.dll
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\Newtonsoft.Json.dll
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\System.Buffers.dll
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\System.CodeDom.dll
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\System.Collections.Immutable.dll
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\System.Memory.dll
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\System.Threading.Channels.dll
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.xml
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Core.xml
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Data.xml
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.DataView.xml
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.PCA.xml
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Recommender.xml
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\Microsoft.ML.Transforms.xml
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\Newtonsoft.Json.xml
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\System.Buffers.xml
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\System.Collections.Immutable.xml
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\System.Memory.xml
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\System.Threading.Channels.xml
+D:\Downloads\Project\CuoiKy\CuoiKy\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\Project\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.AssemblyReference.cache
+D:\Downloads\Project\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\Project\CuoiKy\CuoiKy\obj\Debug\CuoiKy.Form1.resources
+D:\Downloads\Project\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmAddDestination.resources
+D:\Downloads\Project\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmBooking.resources
+D:\Downloads\Project\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmCustomer.resources
+D:\Downloads\Project\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmCustomerRecommed.resources
+D:\Downloads\Project\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmLogin.resources
+D:\Downloads\Project\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmManageDestinaiton.resources
+D:\Downloads\Project\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmManagePartner.resources
+D:\Downloads\Project\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmRating.resources
+D:\Downloads\Project\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmStatistic.resources
+D:\Downloads\Project\CuoiKy\CuoiKy\obj\Debug\CuoiKy.FrmWelcome.resources
+D:\Downloads\Project\CuoiKy\CuoiKy\obj\Debug\CuoiKy.Properties.Resources.resources
+D:\Downloads\Project\CuoiKy\CuoiKy\obj\Debug\CuoiKy.ShowPlace.resources
+D:\Downloads\Project\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.GenerateResource.cache
+D:\Downloads\Project\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.CoreCompileInputs.cache
+D:\Downloads\Project\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.CopyComplete
+D:\Downloads\Project\CuoiKy\CuoiKy\obj\Debug\CuoiKy.exe
+D:\Downloads\Project\CuoiKy\CuoiKy\obj\Debug\CuoiKy.pdb
+D:\Downloads\Project\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmRecommend.resources
+D:\Downloads\Project\CuoiKy\CuoiKy\obj\Debug\CuoiKy.frmSentimentAnalysis.resources
